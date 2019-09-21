@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "List/ViewController.swift"
+            timestampString = "590691939.494698"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; List.ViewController"
+                  moduleName = "List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Documents/2019%E5%89%8D%E6%9C%9F/%E8%87%AA%E7%BF%92/List/List/ViewController.swift"
+                  timestampString = "590658415.4939311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; List.ViewController"
+                  moduleName = "List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Documents/2019%E5%89%8D%E6%9C%9F/%E8%87%AA%E7%BF%92/List/List/ViewController.swift"
+                  timestampString = "590658415.496509"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;List.ViewController&gt;"
+                  moduleName = "List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Documents/2019%E5%89%8D%E6%9C%9F/%E8%87%AA%E7%BF%92/List/List/ViewController.swift"
+                  timestampString = "590658415.499773"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;List.ViewController&gt;"
+                  moduleName = "List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Documents/2019%E5%89%8D%E6%9C%9F/%E8%87%AA%E7%BF%92/List/List/ViewController.swift"
+                  timestampString = "590658415.501747"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List.ViewController.__deallocating_deinit"
+                  moduleName = "List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuri/Documents/2019%E5%89%8D%E6%9C%9F/%E8%87%AA%E7%BF%92/List/List/ViewController.swift"
+                  timestampString = "590658415.504657"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "List/ViewController.swift"
+            timestampString = "590691939.49541"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
